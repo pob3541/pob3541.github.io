@@ -1,6 +1,6 @@
 ---
 layout: post
-title:  "Fuck you jekyll"
+title:  "Test"
 date:   2022-02-14 20:48:21 -0500
 categories: jekyll update
 ---

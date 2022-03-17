@@ -1,28 +1,17 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
-    <title>The Pierre Boucher Company, Inc.</title>
-    <description>This is my website muthatruckers. Don't fudge with me cuz I don't play around foos
+    <title>Pierre Boucher's Online Repository</title>
+    <description>My central online repository for storing the various projects I have worked on over the years.  
 </description>
     <link>http://localhost:4000/</link>
     <atom:link href="http://localhost:4000/feed.xml" rel="self" type="application/rss+xml"/>
-    <pubDate>Tue, 15 Mar 2022 21:01:47 -0400</pubDate>
-    <lastBuildDate>Tue, 15 Mar 2022 21:01:47 -0400</lastBuildDate>
+    <pubDate>Wed, 16 Mar 2022 20:56:08 -0400</pubDate>
+    <lastBuildDate>Wed, 16 Mar 2022 20:56:08 -0400</lastBuildDate>
     <generator>Jekyll v4.2.2</generator>
     
       <item>
-        <title>Override title of file from poo</title>
-        <description>&lt;p&gt;Welcome Motherfucker to post number 2&lt;/p&gt;
-</description>
-        <pubDate>Tue, 15 Feb 2022 00:00:00 -0500</pubDate>
-        <link>http://localhost:4000/poopootrain/babbbyyy/poo</link>
-        <guid isPermaLink="true">http://localhost:4000/poopootrain/babbbyyy/poo</guid>
-        
-        
-      </item>
-    
-      <item>
-        <title>Fuck you jekyll</title>
+        <title>Test</title>
         <description>&lt;p&gt;You’ll find this post in your &lt;code class=&quot;language-plaintext highlighter-rouge&quot;&gt;_posts&lt;/code&gt; directory. Go ahead and edit it and re-build the site to see your changes. You can rebuild the site in many different ways, but the most common way is to run &lt;code class=&quot;language-plaintext highlighter-rouge&quot;&gt;jekyll serve&lt;/code&gt;, which launches a web server and auto-regenerates your site when a file is updated.&lt;/p&gt;
 
 &lt;p&gt;To add new posts, simply add a file in the &lt;code class=&quot;language-plaintext highlighter-rouge&quot;&gt;_posts&lt;/code&gt; directory that follows the convention &lt;code class=&quot;language-plaintext highlighter-rouge&quot;&gt;YYYY-MM-DD-name-of-post.ext&lt;/code&gt; and includes the necessary front matter. Take a look at the source for this post to get an idea about how it works.&lt;/p&gt;

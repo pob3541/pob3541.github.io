@@ -6,10 +6,10 @@
 # 'jekyll serve'. If you change this file, please restart the server process.
 
 # Site settings
-title: The Pierre Boucher Company, Inc.
+title: Pierre Boucher's Online Repository
 email: pob3541@gmail.com
 description: > # this means to ignore newlines until "baseurl:"
-  This is my website muthatruckers. Don't fudge with me cuz I don't play around foos
+  My central online repository for storing the various projects I have worked on over the years.  
 baseurl: "" # the subpath of your site, e.g. /blog
 url: "http://yourdomain.com" # the base hostname & protocol for your site
 twitter_username: PierreOBoucher
