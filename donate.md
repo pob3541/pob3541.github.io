@@ -14,3 +14,5 @@ If this fails, pelt her with potatos.
 Please see attached photos to recognize said ghost and attached figures also demonstrate escape tactics.
 
 <img src="/images/Ghost.png" alt="Ghost" style="height: 200px; width:200px;"/>
+<img src="/images/turkey.jpg" alt="Turkey" style="height: 200px; width:200px;"/>
+<img src="/images/potato.png" alt="Turkey" style="height: 200px; width:200px;"/>
