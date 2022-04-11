@@ -26,9 +26,15 @@ Annoying bird:
  Please see attached pdf of previous lives led.
  
  Human readable resume (1 page)
+
+* [PB fun resume](/pdfs/PB_1page.pdf) 
  
  Machine readable resume (2 pages)
  
- For the ambitious, my CV (3+ pages)
+ For the ambitious, my CV (5 pages)
+2022:
+
+* [PB CV 2022](/pdfs/PB_CV_04_2022.pdf) 
+
 
 
