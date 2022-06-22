@@ -6,7 +6,7 @@
 # 'jekyll serve'. If you change this file, please restart the server process.
 
 # Site settings
-title: Pierre Boucher's Online Repository
+title: Pierre's Online Repository
 email: pob3541@gmail.com
 description: > # this means to ignore newlines until "baseurl:"
   My central online repository for storing the various projects I have worked on over the years.  

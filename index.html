@@ -4,20 +4,21 @@ layout: default
 
 <div class="home">
 
-  <h1 class="page-heading">Posts</h1>
+<img src="/images/PB_Headshot.jpg" alt="Headshot" style="height: 450px; width:400px;"/> <br>
 
-  <ul class="post-list">
-    {% for post in site.posts %}
-      <li>
-        <span class="post-meta">{{ post.date | date: "%b %-d, %Y" }}</span>
+<p> 
+Please find various things about me on the web below. <br>
+Career-type links: 
+ </p>
 
-        <h2>
-          <a class="post-link" href="{{ post.url | prepend: site.baseurl }}">{{ post.title }}</a>
-        </h2>
-      </li>
-    {% endfor %}
-  </ul>
+<ul>
+  <li>{% include icon-github.html username="pob3541" %}</li> 
+  <li><a href="https://www.linkedin.com/in/pierre-boucher-5b837a17/">LinkedIn</a></li>
+  <li><a href="https://orcid.org/0000-0003-0897-6457">ORCiD</a></li>
+  <li><a href="https://www.researchgate.net/profile/Pierre-Boucher-2">ResearchGate</a></li>
+  <li><a href="https://www.scopus.com/authid/detail.uri?authorId=57216321693">Scopus</a></li>
+  <li><a href="https://twitter.com/PierreOBoucher">ScienceTwitter</a></li>
+</ul>
 
-  <p class="rss-subscribe">subscribe <a href="{{ "/feed.xml" | prepend: site.baseurl }}">via RSS</a></p>
 
 </div>
