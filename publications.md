@@ -7,6 +7,8 @@ Here are my publications from over the years over a variety of subjects from the
 
 2022:
 
+* **Boucher, PO**, Wang, T, Carceroni, L, Kane, G, Shenoy, KV, Chandrasekaran, C (2022). Neural population dynamics in dorsal premotor cortex underlying a reach decision. *bioRxiv*. [[PDF](/pdfs/Boucher2022.pdf)] [[DOI](https://doi.org/10.1101/2022.06.30.497070)]
+
 * Momi, D,  Ozdemir,  RA,  Tadayon, E,  **Boucher, P**, Domenico, AD, Fasolo, M, Shafi, MM, Pascual-Leone, A, and Santarnecchi, E (2022).  Phase-dependent local brain states determine the impact of image-guided transcranial magnetic stimulation on motor network electroencephalographic synchronization. *The Journal of Physiology*, 0:1–17. [[PDF](/pdfs/Momi2022.pdf)] [[DOI](https://doi.org/10.1113/JP282393)] 
 
 
