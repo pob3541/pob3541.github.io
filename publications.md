@@ -9,6 +9,9 @@ Here are my publications from over the years over a variety of subjects from the
 
 * **Boucher, PO**, Wang, T, Carceroni, L, Kane, G, Shenoy, KV, Chandrasekaran, C (2022). Neural population dynamics in dorsal premotor cortex underlying a reach decision. *bioRxiv*. [[PDF](/pdfs/Boucher2022.pdf)] [[DOI](https://doi.org/10.1101/2022.06.30.497070)]
 
+* Menardi, A, Ozdemir, R A, Momi, D, Tadayon, E, **Boucher, P**, Vallesi, A, Pascual-Leone, A, Shafi, M M, & Santarnecchi, E (2022). Effect of group-based vs individualized stimulation site selection on reliability of network-targeted TMS. *NeuroImage*. [[PDF](/pdfs/Menardi2022.pdf)] [[DOI](https://doi.org/10.1016/j.neuroimage.2022.119714)] 
+
+
 * Momi, D,  Ozdemir,  RA,  Tadayon, E,  **Boucher, P**, Domenico, AD, Fasolo, M, Shafi, MM, Pascual-Leone, A, and Santarnecchi, E (2022).  Phase-dependent local brain states determine the impact of image-guided transcranial magnetic stimulation on motor network electroencephalographic synchronization. *The Journal of Physiology*, 0:1–17. [[PDF](/pdfs/Momi2022.pdf)] [[DOI](https://doi.org/10.1113/JP282393)] 
 
 
