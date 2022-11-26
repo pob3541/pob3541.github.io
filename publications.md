@@ -3,8 +3,6 @@ layout: page
 title: Publications
 ---
 
-Here are my publications from over the years over a variety of subjects from the various labs that I have been a part of.
-
 2022:
 
 * **Boucher, PO**, Wang, T, Carceroni, L, Kane, G, Shenoy, KV, Chandrasekaran, C (2022). Neural population dynamics in dorsal premotor cortex underlying a reach decision. *bioRxiv*. [[PDF](/pdfs/Boucher2022.pdf)] [[DOI](https://doi.org/10.1101/2022.06.30.497070)]
