@@ -3,6 +3,20 @@ layout: page
 title: Publications
 ---
 
+2024:
+
+* Huang, Y, Li, G, Bai, T, Shin Y, Wang, X, More, AI, **Boucher, P**, Chandrasekaran, C, Liu, J, Fang, H  (2024). Flexible electronic-photonic 3D integration from ultrathin polymer chiplets. *npj Flexible Electronics*. [[PDF](/pdfs/Huang2024.pdf)] [[DOI](https://doi.org/10.1038/s41528-024-00344-w)]
+
+
+2023:
+
+* **Boucher, PO**, Wang, T, Carceroni, L, Kane, G, Shenoy, KV, Chandrasekaran, C (2023). Initial conditions combine with sensory evidence to induce decision-related dynamics in premotor cortex. *Nature Communications*. [[PDF](/pdfs/Boucher2023.pdf)] [[DOI](https://doi.org/https://doi.org/10.1038/s41467-023-41752-2)]
+
+* Rodionov, A, Ozdemir, RA, Benwell, CSY, Fried, PJ, Boucher, PO, Momi, D,
+Ross, JM, Santarnecchi, E, Pascual-Leone, A, & Shafi, MM (2023). Reliability of resting-
+state eeg modulation by continuous and intermittent theta burst stimulation of the primary
+motor cortex: A sham-controlled study. *Scientific Reports*. [[PDF](/pdfs/Rodionov2023.pdf)] [[DOI](https://doi.org/10.1038/s41598-023-45512-6)]
+
 2022:
 
 * **Boucher, PO**, Wang, T, Carceroni, L, Kane, G, Shenoy, KV, Chandrasekaran, C (2022). Neural population dynamics in dorsal premotor cortex underlying a reach decision. *bioRxiv*. [[PDF](/pdfs/Boucher2022.pdf)] [[DOI](https://doi.org/10.1101/2022.06.30.497070)]
