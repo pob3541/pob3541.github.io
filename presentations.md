@@ -25,7 +25,7 @@ decision-making. *Society for the Neural Control of Movement 2024 (Dubrovnik, Cr
 M., Optiz-Araya, X, Wang, T., Lee, K., Carrill, S, Rosene, D. L., Rushmore, R. J.,
 Moore, T. L., Zemelman, B., Ting, J. T., Levi, B. P., Luebke, J. I., & Chandrasekaran, C.
 (2024). Multimodal characterization of optogenetic approaches for assessing inhibitory neuron
-function in macaque monkeys. *Society for Neuroscience - Neuroscience 2024 (Chicago, IL)* [Poster]((/pdfs/SFN2024.pdf))
+function in macaque monkeys. *Society for Neuroscience - Neuroscience 2024 (Chicago, IL)* [Poster]((/pdfs/SFN2024.png))
 
 2022:
 
