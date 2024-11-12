@@ -25,12 +25,12 @@ decision-making. *Society for the Neural Control of Movement 2024 (Dubrovnik, Cr
 M., Optiz-Araya, X, Wang, T., Lee, K., Carrill, S, Rosene, D. L., Rushmore, R. J.,
 Moore, T. L., Zemelman, B., Ting, J. T., Levi, B. P., Luebke, J. I., & Chandrasekaran, C.
 (2024). Multimodal characterization of optogenetic approaches for assessing inhibitory neuron
-function in macaque monkeys. *Society for Neuroscience - Neuroscience 2024 (Chicago, IL)* [Poster]((/pdfs/SFN2024.png))
+function in macaque monkeys. *Society for Neuroscience - Neuroscience 2024 (Chicago, IL)* [Poster]((/pdfs/SFN2024.tiff))
 
 2022:
 
 **Boucher, P. O.**, Wang, T., Carceroni, L., Kane, G., Shenoy, K. V., & Chandrasekaran, C. (2022). Initial conditions in dorsal premotor cortex covary with RT, are altered by trial outcome, and combine with sensory evidence to induce choice-related dynamics. *Society for Neuroscience*
-*- Neuroscience 2022 (San Deigo, CA)* [Poster](/pdfs/Boucher2022_SFNposter.pdf)
+*- Neuroscience 2022 (San Diego, CA)* [Poster](/pdfs/Boucher2022_SFNposter.pdf)
 
 **Boucher, P. O.**, Wang, T., Carceroni, L., Kane, G., Shenoy, K. V., & Chandrasekaran, C. (2022). Neural population dynamics underlying a reach decision. *Neurobiology of Cognition -Gordon Research Conference/Seminar (Newry, ME)* [Poster](/pdfs/Boucher2022_GRS-GRC_Poster.pdf) 
 
