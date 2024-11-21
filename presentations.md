@@ -11,6 +11,7 @@ permalink: /presentations/
 **Boucher, P. O.**, Wang, T., Lee, K., Carr, N., Carceroni, L., Kane, G., Shenoy, K. V., &
 Chandrasekaran, C. (2024). Prefrontal and premotor cortical dynamics underlying perceptual
 decision-making. *Society for the Neural Control of Movement 2024 (Dubrovnik, Croatia)* 
+[Keynote](/pdfs/Boucher2022_MLMCtalk.key) [Abstract](/pdfs/Boucher2022_MLMCabstract.pdf)
 
 2022: 
 
@@ -25,7 +26,7 @@ decision-making. *Society for the Neural Control of Movement 2024 (Dubrovnik, Cr
 M., Optiz-Araya, X, Wang, T., Lee, K., Carrill, S, Rosene, D. L., Rushmore, R. J.,
 Moore, T. L., Zemelman, B., Ting, J. T., Levi, B. P., Luebke, J. I., & Chandrasekaran, C.
 (2024). Multimodal characterization of optogenetic approaches for assessing inhibitory neuron
-function in macaque monkeys. *Society for Neuroscience - Neuroscience 2024 (Chicago, IL)* [Poster]((/pdfs/SFN2024.tiff))
+function in macaque monkeys. *Society for Neuroscience - Neuroscience 2024 (Chicago, IL)* [Poster]((/pdfs/SFN2024.png))
 
 2022:
 
