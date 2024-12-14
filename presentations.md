@@ -29,7 +29,7 @@ function in macaque monkeys. *Society for Neuroscience - Neuroscience 2024 (Chic
 
 2023:
 
-**Boucher, P. O.**, Wang, T., Carceroni, L., Kane, G., Shenoy, K. V., & Chandrasekaran, C. (2023). Initial conditions combine with sensory evidence to induce decision-related dynamics in PMd. *Cosyne (Montreal, QC)* [Abstract](Boucher2023_CosyneAbstract.pdf)
+**Boucher, P. O.**, Wang, T., Carceroni, L., Kane, G., Shenoy, K. V., & Chandrasekaran, C. (2023). Initial conditions combine with sensory evidence to induce decision-related dynamics in PMd. *Cosyne (Montreal, QC)* [Abstract](/pdfs/Boucher2023_CosyneAbstract.pdf)
 
 2022:
 
