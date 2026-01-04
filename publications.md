@@ -3,10 +3,16 @@ layout: page
 title: Publications
 ---
 
+2025:
+
+* Herrema, KE, Kharitonova, EK, Bogatova, D, Wilson, M, Martin, EA, Chung, C, Puppo,
+F, Klorfeld-Auslender, S, **Boucher, P**, Tsai, LH, Muotri, AR, Kuzum, D, Devor, A,
+O’Shea, TM, Zeldich, E, & Thunemann, M (2025). A neurorecording toolkit for longitudinal
+assessments of transplanted human cortical organoids *in vivo*. *bioRxiv*. [[PDF](/pdfs/Herrema2025.pdf)] [[DOI](https://doi.org/10.64898/2025.12.20.695690 )] 
+
 2024:
 
 * Huang, Y, Li, G, Bai, T, Shin Y, Wang, X, More, AI, **Boucher, P**, Chandrasekaran, C, Liu, J, Fang, H  (2024). Flexible electronic-photonic 3D integration from ultrathin polymer chiplets. *npj Flexible Electronics*. [[PDF](/pdfs/Huang2024.pdf)] [[DOI](https://doi.org/10.1038/s41528-024-00344-w)]
-
 
 2023:
 
